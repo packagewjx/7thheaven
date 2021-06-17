@@ -1,0 +1,292 @@
+<?xml version="1.0"?>
+<Catalog Name="Qhimm Catalog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <Mods>
+ 
+## ANIMATIONS
+    <Mod>
+      <ID>ad98f03e-143d-41b0-8937-96fec7c821ea</ID>  
+      <Author>Qhimm Modding Community</Author>
+      <Link>http://forums.qhimm.com/index.php?topic=15520.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1E8eFFlqB6d0Zq98IYkABnQyRmbxd0op5</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 3.0/Animations - 3.0.iro</Link>
+        <Version>3.0</Version>
+        <ReleaseDate>2020-03-03T00:00:00</ReleaseDate>
+        <PreviewImage>https://i.imgur.com/lBsV0AX.png</PreviewImage>
+        <ReleaseNotes>Added breathing animations. Cleaned up some hex values for 60FPS battles.</ReleaseNotes>
+        <DownloadSize>512</DownloadSize>
+      </LatestVersion>
+      <MetaVersion>7</MetaVersion>
+      <Name>Animations</Name>
+	  <Category>Animations</Category>
+      <Description>New animations for field and world. 60FPS for battle.</Description>
+      <Tags>
+      </Tags>
+    </Mod>
+   
+## BATTLE MODELS
+    <Mod>
+      <ID>e4786c44-997e-4a29-b522-a4922aa4d457</ID>  
+      <Author>Qhimm Modding Community</Author>
+      <Link>http://forums.qhimm.com/index.php?topic=15520.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1zSN3JoEUZdDCmVRILFnnmU0Llr7i5Wec</Link>
+        <Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 3.0/Battle Models - 3.0.7z</Link>
+		<Version>3.0</Version>
+        <ReleaseDate>2020-03-03T00:00:00</ReleaseDate>
+        <PreviewImage>https://i.imgur.com/3yLQDEk.png</PreviewImage>
+        <ReleaseNotes>Added ninostyle models and updated to CHaOS 1.72-1.</ReleaseNotes>
+        <DownloadSize>211818</DownloadSize>
+      </LatestVersion>
+      <MetaVersion>8</MetaVersion>
+      <Name>Battle Models</Name>
+      <Category>Battle Models</Category>
+      <Description>Various battle model options for characters, enemies and weapons.</Description>
+      <Tags>
+      </Tags>
+    </Mod>
+   
+## BATTLE TEXTURES
+    <Mod>
+      <ID>b9315620-c927-4fcb-9c05-185783a8967e</ID>
+      <Author>Qhimm Modding Community</Author>
+      <Link>http://forums.qhimm.com/index.php?topic=15520.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1ECEks_GFEGdJnoMILHvEAXEjCjXpoqm1</Link>
+		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 3.0/Battle Textures - 3.0.iro</Link>
+        <Version>3.0</Version>
+        <ReleaseDate>2020-03-03T00:00:00</ReleaseDate>
+        <PreviewImage>https://i.imgur.com/kVH2ug1.png</PreviewImage>
+        <ReleaseNotes>Updated to SYW 3.17 and added Remako HD.</ReleaseNotes>
+        <DownloadSize>1278835</DownloadSize>
+      </LatestVersion>
+      <MetaVersion>17</MetaVersion>
+      <Name>Battle Textures</Name>
+	  <Category>Battle Textures</Category>
+      <Description>New upscales and new textures for the battle scenes.</Description>
+      <Tags>
+      </Tags>
+    </Mod>
+   
+## FIELD MODELS
+    <Mod>
+      <ID>25cf73b9-873e-47a7-92c4-7a581d4707c9</ID>
+      <Author>Qhimm Modding Community</Author>
+      <Link>http://forums.qhimm.com/index.php?topic=15520.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1QUB_j2_k6k3X0gIU25TXksNaYvh8iaId</Link>	
+		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 3.0/Field Models - 3.0.7z</Link>
+        <Version>3.0</Version>
+        <ReleaseDate>2020-03-03T00:00:00</ReleaseDate>
+        <PreviewImage>https://i.imgur.com/ASHS6ge.png</PreviewImage>
+        <ReleaseNotes>Added ninostyle models, dynamic weapons for every Cloud model, CHaOS 1.72-1 and Kaldarasha's Resize Project [beta].</ReleaseNotes>
+        <DownloadSize>278044</DownloadSize>
+      </LatestVersion>
+      <MetaVersion>11</MetaVersion>
+      <Name>Field Models</Name>
+	  <Category>Field Models</Category>
+      <Description>Various field model options for player characters, non-player characters, enemies, objects and dynamic weapons.</Description>
+      <Tags>
+      </Tags>
+    </Mod>
+
+## FIELD TEXTURES
+    <Mod>
+      <ID>ff3eb6c3-5f61-43e0-afd2-2f32685cc6eb</ID>
+      <Author>Qhimm Modding Community</Author>
+      <Link>http://forums.qhimm.com/index.php?topic=15520.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1oZ7vzamb8Cdcg1vT46u-5zQl__v-1yfZ</Link>
+		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 3.0/Field Textures - 3.0.iro</Link>
+        <Version>3.0</Version>
+        <ReleaseDate>2020-03-03T00:00:00</ReleaseDate>
+        <PreviewImage>https://i.imgur.com/1qsmYf9.png</PreviewImage>
+        <ReleaseNotes>Updated to SYW V4 and added Remako HD. Removed all other previous options (saved a HUGE amount of download bandwidth).</ReleaseNotes>
+        <DownloadSize>7678204</DownloadSize>
+      </LatestVersion>
+      <MetaVersion>10</MetaVersion>
+      <Name>Field Textures</Name>
+	  <Category>Field Textures</Category>
+      <Description>Various options for upscaled field textures. New field textures can be found in the Miscellaneous category since all projects are currently a WIP. When completed, they will be moved here. Until then, load them ABOVE this category to use alongside these upscaled textures.</Description>
+      <Tags>
+      </Tags>
+    </Mod>
+
+## GAMEPLAY
+    <Mod>
+      <ID>ace21ed7-9e32-4782-b397-1ce937bf3507</ID>
+      <Author>Qhimm Modding Community</Author>
+      <Link>http://forums.qhimm.com/index.php?topic=15520.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1k4CYwyM0EW0LXmQNaSBTfN7sDrH6UmFn</Link>
+		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 3.0/Gameplay - 3.0.7z</Link>
+        <Version>3.0</Version>
+        <ReleaseDate>2020-03-03T00:00:00</ReleaseDate>
+        <PreviewImage>https://i.imgur.com/TB9ADpa.png</PreviewImage>
+        <ReleaseNotes>Updated to the latest New Threat 1.5 [December 30, 2019], added New Threat 1.5 [Vanilla Combat] and Scavenger.</ReleaseNotes>
+        <DownloadSize>34624</DownloadSize>
+      </LatestVersion>
+      <MetaVersion>10</MetaVersion>
+      <Name>Gameplay</Name>
+	  <Category>Gameplay</Category>
+      <Description>Mods that change the dialogue and difficulty, as well as various tweaks and cheat options.</Description>
+      <Tags>
+      </Tags>
+    </Mod>
+
+## MEDIA
+    <Mod>
+      <ID>fe3a9938-8083-4201-9f52-dd1e3eaba28c</ID>
+      <Author>Qhimm Modding Community</Author>
+      <Link>http://forums.qhimm.com/index.php?topic=15520.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/qepmhiD9PhgqNWzvXJXVA9CjG5a8Jq4</Link>
+		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 3.0/Media - 3.0.iro</Link>
+        <Version>3.0</Version>
+        <ReleaseDate>2020-03-03T00:00:00</ReleaseDate>
+        <PreviewImage>https://i.imgur.com/TxUISvm.png</PreviewImage>
+        <ReleaseNotes>Updated to SYW V4, removed some inferior movie options (saves a TON of space) and added the Arranged Soundtrack.</ReleaseNotes>
+        <DownloadSize>7203628</DownloadSize>
+      </LatestVersion>
+      <MetaVersion>11</MetaVersion>
+      <Name>Media</Name>
+	  <Category>Media</Category>
+      <Description>Various options for the movies, music and sound.</Description>
+      <Tags>
+      </Tags>
+    </Mod>
+
+## MINIGAMES
+    <Mod>
+      <ID>fae201ee-9fa5-4163-ab56-2b478111449d</ID>  
+      <Author>Qhimm Modding Community</Author>
+      <Link>http://forums.qhimm.com/index.php?topic=15520.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1e_koUicEyXrDhmLUM6GF2IvprM-1j-eE</Link>
+		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 3.0/Minigames - 3.0.7z</Link>
+        <Version>3.0</Version>
+        <ReleaseDate>2020-03-03T00:00:00</ReleaseDate>
+        <PreviewImage>https://i.imgur.com/XZ60G0I.png</PreviewImage>
+        <ReleaseNotes>Added ninostyle models and Grimmy textures.</ReleaseNotes>
+        <DownloadSize>69339</DownloadSize>
+      </LatestVersion>
+      <MetaVersion>10</MetaVersion>
+      <Name>Minigames</Name>
+	  <Category>Minigames</Category>
+      <Description>Various options that change or tweak the minigames.</Description>
+      <Tags>
+      </Tags>
+    </Mod>
+   
+## MISCELLANEOUS
+    <Mod>
+      <ID>c0f4e84d-cf4e-49a9-bd61-b3f1f91d7a86</ID>
+      <Author>Qhimm Modding Community</Author>
+      <Link>http://forums.qhimm.com/index.php?topic=15520.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1BNqjFDI_jGO46nssWNz3Xg90KjHJot92</Link>
+		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 3.0/Miscellaneous - 3.0.iro</Link>
+        <Version>3.0</Version>
+        <ReleaseDate>2020-03-03T00:00:00</ReleaseDate>
+        <PreviewImage>https://i.imgur.com/ApcolSV.png</PreviewImage>
+        <ReleaseNotes>Added the Jessie Mod Patch by Sega Chief.</ReleaseNotes>
+        <DownloadSize>869968</DownloadSize>
+      </LatestVersion>
+      <MetaVersion>9</MetaVersion>
+      <Name>Miscellaneous</Name>
+	  <Category>Miscellaneous</Category>
+      <Description>Various small or unfinished mods that don't fit a specific category.</Description>
+      <Tags>
+      </Tags>
+    </Mod>
+
+## SPELL TEXTURES
+    <Mod>
+      <ID>702dcfdb-70c1-48c4-95e7-a13413855e25</ID>
+      <Author>Qhimm Modding Community</Author>
+      <Link>http://forums.qhimm.com/index.php?topic=15520.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1lhs1JMzsYK50jcq-LA74DR9lkCQMY5F1</Link>
+		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 3.0/Spell Textures - 3.1.iro</Link>
+        <Version>3.1</Version>
+        <ReleaseDate>2020-03-07T00:00:00</ReleaseDate>
+        <PreviewImage>https://i.imgur.com/8nP5YOv.png</PreviewImage>
+        <ReleaseNotes>Limit textures should now properly load. New previews added.</ReleaseNotes>
+        <DownloadSize>1924541</DownloadSize>
+      </LatestVersion>
+      <MetaVersion>8</MetaVersion>
+      <Name>Spell Textures</Name>
+	  <Category>Spell Textures</Category>
+      <Description>Textures for magic, summons, enemy skills and items.</Description>
+      <Tags>
+      </Tags>
+    </Mod>
+   
+## USER INTERFACE
+    <Mod>
+      <ID>d7fbbf75-2ff7-42f2-bbda-815fb92598a0</ID>
+      <Author>Qhimm Modding Community</Author>
+      <Link>http://forums.qhimm.com/index.php?topic=15520.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/12R0RLVHjw1RKHD4QUgnfd6ATF4ykdIh0</Link>
+		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 3.0/User Interface - 3.0.7z</Link>
+        <Version>3.0</Version>
+        <ReleaseDate>2020-03-03T00:00:00</ReleaseDate>
+        <PreviewImage>https://i.imgur.com/qqGS5jg.png</PreviewImage>
+        <ReleaseNotes>Added new and more simplified options for Enhanced Stock UI.</ReleaseNotes>
+        <DownloadSize>81055</DownloadSize>
+      </LatestVersion>
+      <MetaVersion>10</MetaVersion>
+      <Name>User Interface</Name>
+	  <Category>User Interface</Category>
+      <Description>Various enhancements to the original user interface.</Description>
+      <Tags>
+      </Tags>
+    </Mod>
+ 
+## WORLD MODELS
+    <Mod>
+      <ID>3365b425-2391-4cc2-ba02-fef3437eba71</ID>
+      <Author>Qhimm Modding Community</Author>
+      <Link>http://forums.qhimm.com/index.php?topic=15520.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/11ZN6umzKk6L0v4asrZr63tSbJ_FltNFn</Link>
+		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 3.0/World Models - 3.0.7z</Link>
+        <Version>3.0</Version>
+        <ReleaseDate>2020-03-03T00:00:00</ReleaseDate>
+        <PreviewImage>https://i.imgur.com/XKJjLXy.png</PreviewImage>
+        <ReleaseNotes>Added ninostyle models and CHaOS 1.72-1.</ReleaseNotes>
+        <DownloadSize>41402</DownloadSize>
+      </LatestVersion>
+      <MetaVersion>9</MetaVersion>
+      <Name>World Models</Name>
+	  <Category>World Models</Category>
+      <Description>Various world model options for characters, enemies and vehicles.</Description>
+      <Tags>
+      </Tags>
+    </Mod>
+
+## WORLD TEXTURES
+    <Mod>
+      <ID>00583ff5-d5b8-4efa-9678-8e319574839e</ID>  
+      <Author>Qhimm Modding Community</Author>
+      <Link>http://forums.qhimm.com/index.php?topic=15520.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/13As5ZVnswKSFErnACY0DpVrVL1Gc9zZR</Link>
+		<Link>iros://Url/http$qhimm.7thheaven.rocks/Catalog 3.0/World Textures - 3.0.iro</Link>
+        <Version>3.0</Version>
+        <ReleaseDate>2020-03-03T00:00:00</ReleaseDate>
+        <PreviewImage>https://i.imgur.com/PzUQBCs.png</PreviewImage>
+        <ReleaseNotes>Updated to SYW V4 and added Remako HD.</ReleaseNotes>
+        <DownloadSize>150485</DownloadSize>
+      </LatestVersion>
+      <MetaVersion>10</MetaVersion>
+      <Name>World Textures</Name>
+	  <Category>World Textures</Category>
+      <Description>New upscales and new textures for the world.</Description>
+      <Tags>
+      </Tags>
+    </Mod>
+     
+  </Mods>
+</Catalog>
