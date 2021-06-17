@@ -1,0 +1,728 @@
+<?xml version="1.0"?>
+<Catalog Name="Mods of the Round" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <Mods>
+ 
+##[Tsunamods] Avalanche Arisen Battle Scenes
+    <Mod>
+      <ID>c33191b1-439d-4536-9c70-cc5f6957dfa2</ID> 
+      <Author>UpRisen</Author>
+      <Link>http://forums.qhimm.com/index.php?topic=18029.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1lz0r6BASBBuz1UGDv-RpjxhNnNTnqL99</Link>
+        <Version>1.0</Version>
+        <ReleaseDate>2018-07-26</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/DjBkB71.png</PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>473600</DownloadSize>
+      </LatestVersion>
+      <Name>[Tsunamods] Avalanche Arisen Battle Scenes</Name>
+      <Category>Battle Textures</Category>
+      <Description>High resolution battle fields</Description>
+      <Tags>
+        <string>MotR</string>
+        <string>Avalanche</string>
+        <string>Tsunamods</string>
+        <string>Battle Fields</string>
+        <string>Fields</string>
+        <string>Arisen</string>
+        <string>Uprisen</string>
+      </Tags>
+    </Mod>
+
+## [Tsunamods] Arranged Soundtrack
+    <Mod>
+      <ID>ed5a8c57-56bf-4cf1-acfa-8e5347f27463</ID>  
+      <Author>Dracula9AntiChapel, Bonez, Tsunamix</Author>
+      <Link>https://discord.gg/XVHBExy</Link>
+      <LatestVersion>
+        <Link>iros://Url/http://motr.7thheaven.rocks/TsunamodsArranged/[Tsunamods]-Arranged-Soundtrack.iro</Link>
+        <Version>1.2</Version>
+        <ReleaseDate>2020-02-05</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/X7lQH2y.png</PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>175846</DownloadSize>
+      </LatestVersion>
+      <Name>[Tsunamods] Arranged Soundtrack</Name>
+      <Category>Media</Category>
+      <Description>Alternate Soundtrack</Description>
+      <Tags>
+        <string>MotR</string>
+        <string>Arranged</string>
+        <string>Soundtrack</string>
+        <string>Tsunamix</string>
+        <string>Dracula9AntiChapel</string>
+      </Tags>
+    </Mod>
+
+## [Tsunamods] Phoenix Tail Avatars
+    <Mod>
+      <ID>e3aa4f6f-9c17-479c-9482-834232e91a2a</ID>  
+      <Author>Tsunamix + TheWez1981</Author>
+      <Link>https://discord.gg/XVHBExy</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1j3O5QUKkD1NvOurnOTePn5hPbXHJUZQ5</Link>
+        <Version>2.0</Version>
+        <ReleaseDate>2020-10-24</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/SSj3r4U.png</PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>135846</DownloadSize>
+      </LatestVersion>
+      <Name>[Tsunamods] Phoenix Tail Avatars</Name>
+      <Category>User Interface</Category>
+      <Description>Multiple choice avatars</Description>
+      <Tags>
+        <string>MotR</string>
+        <string>Arranged</string>
+        <string>Soundtrack</string>
+        <string>Tsunamix</string>
+        <string>TheWez1981</string>
+        <string>Tsunamods</string>
+      </Tags>
+    </Mod>
+
+## [Tsunamods] The Barret Mod
+    <Mod>
+      <ID>148d3e31-a403-429a-b1d0-c61bc07a1853</ID>  
+      <Author>UpRisen Sega Chief</Author>
+      <Link>https://forums.qhimm.com/index.php?topic=19313.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1-TC9ohEVOBQ9ddVpLm2Z-3LwwzBgyXBM</Link>
+        <Version>1.0</Version>
+        <ReleaseDate>2019-10-28</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/enIrc2d.png</PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>188000</DownloadSize>
+      </LatestVersion>
+      <Name>[Tsunamods] The Barret Mod</Name>
+      <Category>Battle Models</Category>
+      <Description>This mod makes your darkest nightmares come true. The Barret cells have spread to everyone in the Final Fantasy VII universe, and have gained the appearance of Barret.</Description>
+      <Tags>
+        <string>MotR</string>
+        <string>Models</string>
+		<string>UpRisen</string>
+        <string>Sega Chief</string>
+        <string>Barret Mod</string>
+        <string>Tsunamods</string>
+      </Tags>
+    </Mod>
+
+## [Tsunamods] EDMusic FF7 Soundtrack
+    <Mod>
+      <ID>c422dbb0-8d91-4777-91e4-90b5bcc5646f</ID>
+      <Author>unab0mb, Enrico Deiana</Author>
+      <Link>https://forums.qhimm.com/index.php?topic=19341.0</Link>
+      <LatestVersion>
+        <Link>iros://Url/http$7thheaven.rocks/mods/[Tsunamods]_EDMusic_FF7_Soundtrack_v0.40.iro</Link>
+        <Version>0.40</Version>
+        <ReleaseDate>2020-03-03T00:00:00</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>http://7thheaven.rocks/mods/previewimages/EDMusic-Preview.gif</PreviewImage>
+        <ReleaseNotes>Version 0.40 PREVIEW adds 7H 2.0 mod config treeview support, and tracks Fanfare (Default Mix) and Good Night, Until Tomorrow.</ReleaseNotes>
+      <DownloadSize>183296</DownloadSize>
+      </LatestVersion>
+      <MetaVersion>0</MetaVersion>
+      <Name>[Tsunamods] EDMusic FF7 Soundtrack</Name>
+      <Description>This is an in-progress full soundtrack replacement for FF7 by Enrico Deiana.</Description>
+      <Category>Media</Category>
+      <Tags>
+        <string>unab0mb</string>
+        <string>Enrico Deiana</string>
+        <string>Music</string>
+        <string>Media</string>
+     </Tags>
+    </Mod>
+
+## [Tsunamods] Modern Spell Names ##
+    <Mod>
+      <ID>8c1020f8-562c-4a1e-87ab-dd328c0aa567</ID>
+      <Author>Bonez</Author> 
+      <Link>http://forums.qhimm.com/index.php?topic=19884.0</Link>
+      <LatestVersion>
+        <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5DModern%20Spell%20Names%201.6.iro</Link>
+		<Version>1.6</Version>
+        <ReleaseDate>2020-07-30</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/IWziOf9.png</PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>2700</DownloadSize>
+      </LatestVersion>
+      <Name>[Tsunamods] Modern Spell Names</Name>
+      <Category>Miscellaneous</Category>
+      <Description>Updates spell names to official names used in modern Final Fantasy games and improves spell/item info.
+E.g., Bolt2 = Thundara</Description>
+      <Tags>
+        <string>Bonez'</string>
+        <string>Miscellaneous</string>
+        <string>MotR</string>
+      </Tags>
+   </Mod>
+
+## [Tsunamods] Bonez' Sound Effect Suite ##
+    <Mod>
+      <ID>348752c7-2da9-4afd-84ce-cf65480ba1d6</ID>
+      <Author>Bonez</Author> 
+      <Link>http://forums.qhimm.com/index.php?topic=19598.0</Link>
+      <LatestVersion>
+        <Link>iros://Url/http://bonez.7thheaven.rocks/Bonez%27%20Sound%20Effect%20Suite%203.0.iro</Link>
+		<Version>3.0</Version>
+        <ReleaseDate>2020-04-25</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/dNplpMf.png</PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>497000</DownloadSize>
+      </LatestVersion>
+      <Name>[Tsunamods] Bonez' Sound Effect Suite</Name>
+      <Category>Media</Category>
+      <Description>This mod currently replaces/updates 480+ magic/battle/world sound effects in FF7.</Description>
+      <Tags>
+        <string>Bonez</string>
+        <string>SFX</string>
+        <string>MotR</string>
+      </Tags>
+   </Mod>
+
+##[Tsunamods] Finishing Touch
+    <Mod>
+      <ID>c706f3c9-b6e2-41c6-a603-b8c2b03cbb4b</ID> 
+      <Author>Bonez, Lap Pun Cheung</Author>
+      <Link>http://forums.qhimm.com/index.php?topic=20669.0</Link>
+      <LatestVersion>
+        <Link>iros://Url/http://bonez.7thheaven.rocks/%5BTsunamods%5D_Finishing_Touch.iro</Link>
+        <Version>1.01</Version>
+        <ReleaseDate>2021-05-25</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://imgur.com/keudmWY.png</PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>143000</DownloadSize>
+      </LatestVersion>
+      <Name>[Tsunamods] Finishing Touch</Name>
+      <Category>User Interface</Category>
+      <Description>A collection of menu enhancements including:
+  3 New prelude credit sequences featuring art from Lap Pun Cheung.
+  New start menu background featuring art from Lap Pun Cheung.
+  New game over screen featuring art from Lap Pun Cheung.
+  Original Tetsuya Nomura portrait-style character avatars.
+  New ESUI menu border bars.
+  </Description>
+      <Tags>
+        <string>MotR</string>
+        <string>Bonez</string>
+        <string>Tsunamods</string>
+		<string>User Interface</string>
+      </Tags>
+    </Mod>
+
+## Symphonic Remasters: Redux
+    <Mod>
+      <ID>e17f6212-2f51-4c51-b2e3-ca3bafcf2b6b</ID>
+      <Author>unab0mb, Symphonic Remasters</Author>
+      <Link>http://forums.qhimm.com/index.php?topic=20240.0</Link>
+      <LatestVersion>
+        <Link>iros://Url/http://7thheaven.rocks/releases/Symphonic_Remasters_Redux.iro</Link>
+        <Version>2.0</Version>
+        <ReleaseDate>2020-07-18</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/n0H52S0.png</PreviewImage>
+        <ReleaseNotes>A re-release of the Symphonic Remasters FF7 soundtrack with the overall volume levels now closely matching the game's OST, other volume/loop fixes, Loopstart only, on/off selection of individual tracks, reduced file size, and high-resolution intro/ending videos now with SFX. All made from the original lossless audio and packaged for 7th Heaven.</ReleaseNotes>
+      <DownloadSize>519168</DownloadSize>
+      </LatestVersion>
+      <MetaVersion>0</MetaVersion>
+      <Name>Symphonic Remasters: Redux</Name>
+      <Description>Complete FF7 soundtrack replacement in a symphonic style. Thanks to Bonez for the artwork and Satsuki for video upscales! To hear the included intro/ending movies, place this mod above other movie mods. If other music mods include movies, disable the movies from the other mods if possible.</Description>
+      <Category>Media</Category>
+      <Tags>
+        <string>unab0mb</string>
+        <string>Symphonic Remasters</string>
+        <string>Music</string>
+        <string>Media</string>
+      </Tags>
+    </Mod>
+
+## cmh175 Battle Models
+    <Mod>
+      <ID>7769a522-0939-416e-ad17-a681b870d185</ID>  
+      <Author>cmh175</Author>
+      <Link>http://forums.qhimm.com/index.php?topic=14852.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1SwFiDagHU5bnODE7I79_xUkviLVBIrtz</Link>
+        <Link>iros://MegaSharedFolder/#F!rDoQ2SAb!k0pcOrOztjwVJCGQYy21PQ,LKghCQSY,CMH175 Models.iro</Link>
+        <Version>1.0</Version>
+        <ReleaseDate>2018-02-02</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/tGSThgc.png</PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>328294</DownloadSize>
+      </LatestVersion>
+      <Name>cmh175 Avatars</Name>
+      <Category>Battle Models</Category>
+      <Description>A group of cmh175's Avatars</Description>
+      <Tags>
+        <string>MotR</string>
+        <string>Avatar</string>
+        <string>CMH175</string>
+      </Tags>
+    </Mod>
+
+## cmh175 HQ FMV Pack
+    <Mod>
+      <ID>cd7e9b5b-4b43-441e-b091-0e28e8c5c6db</ID>  
+      <Author>cmh175</Author>
+      <Link>http://forums.qhimm.com/index.php?topic=14852.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1k0qQs28djwq_qyC1hocq0lrqOd9lw7F2</Link>
+        <Link>iros://MegaSharedFolder/#F!rDoQ2SAb!k0pcOrOztjwVJCGQYy21PQ,fOYnWAzC,cmh175 HQ FMV Pack.iro</Link>
+        <Version>1.0</Version>
+        <ReleaseDate>2018-02-02</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/PjjgH4f.png</PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>3554672</DownloadSize>
+      </LatestVersion>
+      <Name>cmh175 HQ FMV Pack</Name>
+      <Category>Media</Category>
+      <Description>A group of cmh175's HQ FMV's</Description>
+      <Tags>
+        <string>MotR</string>
+        <string>FMV</string>
+        <string>CMH175</string>
+      </Tags>
+    </Mod>
+
+## Enhanced Stock UI
+    <Mod>
+      <ID>2b49d831-6556-41df-9ddb-d1a6e937f548</ID>  
+      <Author>Chrysalis</Author>
+      <Link>http://forums.qhimm.com/index.php?topic=19120.0</Link>
+      <LatestVersion>
+      <Link>iros://Url/http$chris.7thheaven.rocks/Enhanced Stock UI-rel2.7z</Link>
+	  <Link>iros://GDrive/1oP_y8rf1ADmAfKK3DVSyB3DOkezyLKR3</Link>
+        <Version>2.33</Version>
+        <ReleaseDate>2020-12-03</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/uyrw74d.png</PreviewImage>
+         <ReleaseNotes>Version 2.3 Integrates DDS textures
+Adds options for FFNX button mapping
+Adds Transparent Battle Boxes
+Read Readme for detailed changelog.</ReleaseNotes>
+        <DownloadSize>31218</DownloadSize>
+      </LatestVersion>
+      <Name>Enhanced Stock UI-rel2</Name>
+      <Category>User Interface</Category>
+      <Description>Enhanced Version of Stock UI
+High Resolution Menu System
+Choice Of Battle UI
+Choice of Icons
+Controller Icons</Description>
+      <Tags>
+        <string>MotR</string>
+        <string>Menu</string>
+        <string>Chrysalis</string>
+        <string>ChrisC79UK</string>
+        <string>Menu Overhaul</string>
+        <string>Enhanced Stock UI</string>
+      </Tags>
+    </Mod>
+
+## ESUI Controller Addon ##
+    <Mod>
+      <ID>135478f5-b53f-4960-b411-b93370dc45da</ID>
+      <Author>Chrysalis</Author> 
+      <Link>https://forums.qhimm.com/</Link>
+      <LatestVersion>
+        <Link>iros://Url/http$chris.7thheaven.rocks/ESUI-Controller-Addon.7z</Link>
+        <Link>iros://GDrive/1H-5RJmUsqVwIqmBDNpVZAV73PLSbhwq5</Link>
+		<Version>1.06</Version>
+        <ReleaseDate>2020-08-31</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/taztZvt.png</PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>1197</DownloadSize>
+      </LatestVersion>
+      <Name>ESUI Controller Addon</Name>
+      <Category>Gameplay</Category>
+      <Description>Adds controller icons to game dialog. Not compatible with other Gameplay mods.</Description>
+      <Tags>
+        <string>Chrysalis</string>
+        <string>MotR</string>
+      </Tags>
+   </Mod>
+
+## Remake ESUI Theme ##
+    <Mod>
+      <ID>0b038238-8e3e-48a5-b56d-55a3fe0aa929</ID>
+      <Author>Fewtch, Chrysalis, and the Qhimm Modding Community</Author> 
+      <Link>http://forums.qhimm.com/index.php?topic=19120.0</Link>
+      <LatestVersion>
+        <Link>iros://MegaSharedFolder/#F!Dp01CbzL!YOFIxqF72TUN-xtYJrh3bA,jxtCwCzY,FF7REMAKE_Menu.iro</Link>
+		<Version>1.04</Version>
+        <ReleaseDate>2020-04-07</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/piuBuyy.png</PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>20900</DownloadSize>
+      </LatestVersion>
+      <Name>FF7 Remake ESUI Theme</Name>
+      <Category>User Interface</Category>
+      <Description>FF7 Remake styled theme for ESUI. REQUIRES Enhanced Stock UI!</Description>
+      <Tags>
+        <string>Chrysalis</string>
+        <string>Fewtch</string>
+        <string>MotR</string>
+      </Tags>
+   </Mod>
+
+## Borderless Windowed FF7 ##
+    <Mod>
+      <ID>7350eb7e-6b4f-4a9c-8a70-28d6304f8ce7</ID>
+      <Author>unab0mb</Author> 
+      <Link>https://forums.qhimm.com/</Link>
+      <LatestVersion>
+        <Link>iros://Url/http://7thheaven.rocks/mods/Borderless_FF7_(BFF7)_v1.0.iro</Link>
+        <Version>1.00</Version>
+        <ReleaseDate>2020-03-10</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>http://7thheaven.rocks/mods/previewimages/BFF7-Preview.gif</PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>1690</DownloadSize>
+      </LatestVersion>
+      <Name>Borderless Windows FF7</Name>
+      <Category>Miscellaneous</Category>
+      <Description>AutoHotKey based borderless window hack for FF7. REQUIRES 7H 2.0+!
+-Your FF7 window title MUST start with 'Final Fantasy VII'.
+-Press 8 to toggle window border.
+-Press 9 to left align window.
+-Press 0 to right align window.
+-Press - to center window.
+-Press = to toggle borderless fullscreen. (Set your desired resolution in Game Driver Settings first!)</Description>
+      <Tags>
+        <string>Unab0mb</string>
+        <string>MotR</string>
+      </Tags>
+   </Mod>
+
+## [4x Upscale] - Project Edge Fields ##
+    <Mod>
+      <ID>db6fc76b-a37d-4908-9dce-406d023bc2cb</ID>
+      <Author>AxlRose + Jusete</Author> 
+      <Link>http://forums.qhimm.com/index.php?topic=17791.0</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/1FqhCbNt5yEiF1PELhRkbSiQHYOpE5WoL</Link>
+		<Version>1.1</Version>
+        <ReleaseDate>2020-04-01</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/WT8YV5D.png</PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>157000</DownloadSize>
+      </LatestVersion>
+      <Name>[4x Upscale] - Project Edge Fields</Name>
+      <Category>Field Textures</Category>
+      <Description>Updated metadata for 7th Heaven 2.0 support and textures resized to 1k resolution (4x upscale from the original game). All the credits go to the creator of this beautiful mod Jusete, I just resized the images.</Description>
+      <Tags>
+        <string>AxlRose</string>
+        <string>Jusete</string>
+        <string>Field Textures</string>
+        <string>MotR</string>
+      </Tags>
+   </Mod>
+
+## AxlRose Avatars + old Pencil Drawings ##
+    <Mod>
+      <ID>c4f0d768-a8b9-4d82-a5af-3beda51e0ffa</ID>
+      <Author>AxlRose + Sage</Author> 
+      <Link>https://discord.gg/xJMxvEk</Link>
+      <LatestVersion>
+        <Link>iros://GDrive/14pnWjU4vZ0JZhGIT1BovOPpNnRk_O6AA</Link>
+        <Version>2.0</Version>
+        <ReleaseDate>2020-05-15</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://imgur.com/iquumhh.gif</PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>161000</DownloadSize>
+      </LatestVersion>
+      <Name>AxlRose Avatars</Name>
+      <Category>User Interface</Category>
+      <Description>Replaces the in-game portraits of your characters with a Remake style version.
+- New super hot Yuffie, Cid, Young Cloud, Vincent, Cait Sith, and Chocobo models.
+- Now compatible with the FFNx Driver to use the DDS format (Not Required).
+- Removed Aali and FFNx manual switch option, the switch is now automatic.
+- New Type A, Type B, Type C, Type D, and Type E sets.
+- Type Y and Z are now the old Pencil Drawing Avatars sets.</Description>
+      <Tags>
+        <string>AxlRose</string>
+        <string>User Interface</string>
+        <string>MotR</string>
+      </Tags>
+   </Mod>
+
+## Kaldarasha's ChaOS ##
+    <Mod>
+      <ID>7d42b459-ce44-40cc-b4b2-4ba6301538d4</ID>
+      <Author>Kaldarasha</Author> 
+      <Link>https://www.nexusmods.com/finalfantasy7/mods/1/?tab=description</Link>
+      <LatestVersion>
+        <Link>iros://Url/http://motr.7thheaven.rocks/ChaOS/ChaOS.7z</Link>
+        <Version>1.702</Version>
+        <ReleaseDate>2019-03-01</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/4r7pgKn.png</PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>45900</DownloadSize>
+      </LatestVersion>
+      <Name>ChaOS</Name>
+      <Category>Field Models</Category>
+      <Description>Replaces every character model with non chibi version done by Kaldarasha, along with some extra optional options.</Description>
+      <Tags>
+        <string>Kaldarasha</string>
+        <string>Field Models</string>
+        <string>MotR</string>
+      </Tags>
+   </Mod>
+
+## Kaldarasha's Cloud Dynamic Weapons ##
+    <Mod>
+      <ID>63b5b1c5-4e71-4bfb-b318-d2eae78dbefa</ID>
+      <Author>Kaldarasha</Author> 
+      <Link>https://www.nexusmods.com/finalfantasy7/mods/1/?tab=description</Link>
+      <LatestVersion>
+        <Link>iros://Url/http://motr.7thheaven.rocks/ChaOS/Cloud-Dynamic-Weapons.7z</Link>
+        <Version>1.72</Version>
+        <ReleaseDate>2019-05-18</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/4r7pgKn.png</PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>18300</DownloadSize>
+      </LatestVersion>
+      <Name>Cloud Dynamic Weapons</Name>
+      <Category>Field Models</Category>
+      <Description>Makes the weapon on Clouds back on the fields be his currently equipped weapon.</Description>
+      <Tags>
+        <string>Kaldarasha</string>
+        <string>Field Models</string>
+        <string>Dynamic Weapons</string>
+        <string>MotR</string>
+      </Tags>
+   </Mod>
+
+## Kaldarasha's Rise of the Black Wolf ##
+    <Mod>
+      <ID>b6629e6b-4a35-4ea7-b837-ad9655d01cfe</ID>
+      <Author>Kaldarasha</Author> 
+      <Link>https://www.nexusmods.com/finalfantasy7/mods/1/?tab=description</Link>
+      <LatestVersion>
+        <Link>iros://Url/http://motr.7thheaven.rocks/ChaOS/Rise-of-the-Black-Wolf.7z</Link>
+        <Version>1.0</Version>
+        <ReleaseDate>2019-05-18</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/4r7pgKn.png</PreviewImage>
+        <ReleaseNotes/>
+        <DownloadSize>8300</DownloadSize>
+      </LatestVersion>
+      <Name>Rise of the Black Wolf</Name>
+      <Category>Battle Models</Category>
+      <Description>Replaces Clouds model with a certain black haired 1st Class SOLDIER</Description>
+      <Tags>
+        <string>Kaldarasha</string>
+        <string>Battle Models</string>
+        <string>MotR</string>
+      </Tags>
+   </Mod>
+
+## Satsuki SYW V5 Battle Textures ##
+    <Mod>
+      <ID>b429a24b-1aeb-4972-b2c3-1fc44b0b83f7</ID>
+      <Author>Satsuki_Yatoshi</Author> 
+      <Link>http://forums.qhimm.com/index.php?topic=20434.0</Link>
+      <LatestVersion>
+        <Link>iros://Url/https://syw.7thheaven.rocks/iros/[Tsunamods].SYW.V5.Battle.Textures.V5.00.7z</Link>
+        <Version>5.0</Version>
+        <ReleaseDate>2021-05-05</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/hz4QfZL.jpg</PreviewImage>
+        <ReleaseNotes>The textures are as close as possible to vanilla textures, but AI upscaled with lots of manual tweaks to get an HD experience of the original game design.</ReleaseNotes>
+        <DownloadSize>199000</DownloadSize>
+      </LatestVersion>
+      <Name>[Tsunamods] Satsuki SYW V5 Battle Textures</Name>
+      <Category>Battle Textures</Category>
+      <Description>AI upscaled battle textures</Description>
+      <Tags>
+        <string>Satsuki</string>
+        <string>Battle Textures</string>
+        <string>MotR</string>
+      </Tags>
+   </Mod>
+
+## Satsuki SYW V5 Field Textures ##
+    <Mod>
+      <ID>67a972fc-99e1-4279-839b-4e31e0a4fe2a</ID>
+      <Author>Satsuki_Yatoshi, Manakaiser, Aavock, L@ZaR0</Author> 
+      <Link>http://forums.qhimm.com/index.php?topic=20434.0</Link>
+      <LatestVersion>
+        <Link>iros://Url/https://syw.7thheaven.rocks/iros/[Tsunamods].SYW.V5.Field.Textures.V5.10.7z</Link>
+        <Version>5.0</Version>
+        <ReleaseDate>2021-05-05</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/2ddBcgw.jpg</PreviewImage>
+        <ReleaseNotes>The textures are as close as possible to vanilla textures, but AI upscaled with lots of manual tweaks to get an HD experience of the original game design. This pack also upscales all of the field animations. Those animations can cause slowdown on some fields on some computers. If you get slowdown, please disable the "Advanced Texture Animations" option. (double click on this mod and turn off the "Advanced Texture Animations") To get proper Advanced Texture Animations you need to: -Be on the lastest updated 7th Heaven version from here: https://github.com/tsunamods-codes/7th-Heaven/releases. (Scroll down, click "Assets", and grab 7thHeaven-vxxx_Release.zip) -Then go in 7th "Settings/General Settings" and on the bottom-left you'll find the FFNx section, click canary then check for updates, say yes and then go to "Settings/Game Driver Settings, and click "Restore defaults" next to save. -Then go in 7th "Settings/Game Driver - Animated Textures" and set it to ON.</ReleaseNotes>
+        <DownloadSize>2300000</DownloadSize>
+      </LatestVersion>
+      <Name>[Tsunamods] Satsuki SYW V5 Field Textures</Name>
+      <Category>Field Textures</Category>
+      <Description>AI upscaled field textures</Description>
+      <Tags>
+        <string>Satsuki</string>
+        <string>Field Textures</string>
+        <string>MotR</string>
+      </Tags>
+   </Mod>
+
+## Satsuki SYW V5 Menu Fonts and Textures ##
+    <Mod>
+      <ID>ece66558-f85c-4e93-94c5-78e3591fd6b3</ID>
+      <Author>Aavock, Satsuki_Yatoshi</Author> 
+      <Link>http://forums.qhimm.com/index.php?topic=20434.0</Link>
+      <LatestVersion>
+        <Link>iros://Url/https://syw.7thheaven.rocks/iros/[Tsunamods].SYW.V5.Menu.and.Fonts.Textures.V5.23.7z</Link>
+        <Version>5.0</Version>
+        <ReleaseDate>2021-05-05</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/rAUDqt9.jpg</PreviewImage>
+        <ReleaseNotes>Those textures are as close as possible as vanilla texture but done from scratch in HD</ReleaseNotes>
+        <DownloadSize>2820</DownloadSize>
+      </LatestVersion>
+      <Name>[Tsunamods] Satsuki SYW V5 Menu Fonts and Textures</Name>
+      <Category>User Interface</Category>
+      <Description>Done from scratch menu and UI (fonts, wheels...)</Description>
+      <Tags>
+        <string>Satsuki</string>
+        <string>User Interface</string>
+        <string>MotR</string>
+        <string>Font</string>
+      </Tags>
+   </Mod>
+
+## Satsuki SYW V5 Minigame Textures ##
+    <Mod>
+      <ID>4692f0f6-0207-410f-ae73-675622d10821</ID>
+      <Author>Satsuki_Yatoshi, Aavock, Grimmy</Author> 
+      <Link>http://forums.qhimm.com/index.php?topic=20434.0</Link>
+      <LatestVersion>
+        <Link>iros://Url/https://syw.7thheaven.rocks/iros/[Tsunamods].SYW.V5.Minigames.Textures.V5.20.7z</Link>
+        <Version>5.0</Version>
+        <ReleaseDate>2021-05-05</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/DkwdEJ9.jpg</PreviewImage>
+        <ReleaseNotes>The textures are as close as possible to vanilla textures, but AI upscaled with some manual tweaks to get an HD experience of the original game design.</ReleaseNotes>
+        <DownloadSize>313000</DownloadSize>
+      </LatestVersion>
+      <Name>[Tsunamods] Satsuki SYW V5 Minigame Textures</Name>
+      <Category>Minigames</Category>
+      <Description>AI upscaled minigames textures</Description>
+      <Tags>
+        <string>Satsuki</string>
+        <string>Minigame Textures</string>
+        <string>MotR</string>
+      </Tags>
+   </Mod>
+
+## Satsuki SYW V5 Spell Textures ##
+    <Mod>
+      <ID>f40b91b3-72f2-4900-be43-86770220095a</ID>
+      <Author>Kela51, Satsuki_Yatoshi</Author> 
+      <Link>http://forums.qhimm.com/index.php?topic=20434.0</Link>
+      <LatestVersion>
+        <Link>iros://Url/https://syw.7thheaven.rocks/iros/[Tsunamods].SYW.V5.Spell.Textures.V5.00.7z</Link>
+        <Version>5.0</Version>
+        <ReleaseDate>2021-05-05</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/UWVyfOD.jpg</PreviewImage>
+        <ReleaseNotes>The textures are close to vanilla textures, but done from scratch in HD.</ReleaseNotes>
+        <DownloadSize>495000</DownloadSize>
+      </LatestVersion>
+      <Name>[Tsunamods] Satsuki SYW V5 Spell Textures</Name>
+      <Category>Spell Textures</Category>
+      <Description>Done from scratch HD spell textures</Description>
+      <Tags>
+        <string>Satsuki</string>
+        <string>Spell Textures</string>
+        <string>MotR</string>
+      </Tags>
+   </Mod>
+
+## Satsuki SYW V5 World Textures ##
+    <Mod>
+      <ID>93fc7769-5ebd-4929-901a-a9fdcca81928</ID>
+      <Author>Satsuki_Yatoshi</Author> 
+      <Link>http://forums.qhimm.com/index.php?topic=20434.0</Link>
+      <LatestVersion>
+        <Link>iros://Url/https://syw.7thheaven.rocks/iros/[Tsunamods].SYW.V5.Worldmap.Textures.V5.00.7z</Link>
+        <Version>5.0</Version>
+        <ReleaseDate>2021-05-05</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/fbMMGnm.jpg</PreviewImage>
+        <ReleaseNotes>The textures are as close as possible to vanilla textures, but AI upscaled with lots of manual tweaks to get an HD experience of the original game design. The minimap design is from Team avalanche.</ReleaseNotes>
+        <DownloadSize>27039</DownloadSize>
+      </LatestVersion>
+      <Name>[Tsunamods] Satsuki SYW V5 World Textures</Name>
+      <Category>World Textures</Category>
+      <Description>AI upscaled world textures</Description>
+      <Tags>
+        <string>Satsuki</string>
+        <string>World Textures</string>
+        <string>MotR</string>
+      </Tags>
+   </Mod>
+
+## Satsuki SYW V5 30FPS Upscaled FMV ##
+    <Mod>
+      <ID>ef5dd535-9646-455c-b7a6-04c73b346d9e</ID>
+      <Author>Satsuki_Yatoshi</Author> 
+      <Link>http://forums.qhimm.com/index.php?topic=20434.0</Link>
+      <LatestVersion>
+        <Link>https://syw.7thheaven.rocks/iros/[Tsunamods].SYW.V6.FMV.V6.31.iro</Link>
+        <Version>5.0</Version>
+        <ReleaseDate>2021-05-05</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/OPPh6or.jpg</PreviewImage>
+        <ReleaseNotes>Those FMV's are as close as possible to vanilla FMV's but AI + avisynth scripts upscaled and interpolated at 30fps with lots of manual tweaks to get an HD experience of the original game design.</ReleaseNotes>
+        <DownloadSize>1800000</DownloadSize>
+      </LatestVersion>
+      <Name>[Tsunamods] Satsuki SYW V6 30FPS Upscaled FMV</Name>
+      <Category>Media</Category>
+      <Description>AI upscaled 30fps FMV</Description>
+      <Tags>
+        <string>Satsuki</string>
+        <string>Media</string>
+        <string>MotR</string>
+      </Tags>
+   </Mod>
+
+## Satsuki SYW V5 Upscaled FMV ##
+    <Mod>
+      <ID>53c8450d-2692-43a5-a5bf-3ee4e28cc7a1</ID>
+      <Author>Satsuki_Yatoshi</Author> 
+      <Link>http://forums.qhimm.com/index.php?topic=20434.0</Link>
+      <LatestVersion>
+        <Link>https://syw.7thheaven.rocks/iros/[Tsunamods].SYW.V6.FMV.V6.01.iro</Link>
+        <Version>5.0</Version>
+        <ReleaseDate>2021-05-05</ReleaseDate>
+        <CompatibleGameVersions>All</CompatibleGameVersions>
+        <PreviewImage>https://i.imgur.com/OPPh6or.jpg</PreviewImage>
+        <ReleaseNotes>The FMV's are as close as possible to vanilla FMV's but AI + avisynth scripts upscaled with lots of manual tweaks to get an HD experience of the original game design.</ReleaseNotes>
+        <DownloadSize>1500000</DownloadSize>
+      </LatestVersion>
+      <Name>[Tsunamods] Satsuki SYW V6 Upscaled FMV</Name>
+      <Category>Media</Category>
+      <Description>AI upscaled FMV (no FPS Increase)</Description>
+      <Tags>
+        <string>Satsuki</string>
+        <string>Media</string>
+        <string>MotR</string>
+      </Tags>
+   </Mod>
+
+   </Mods>
+</Catalog>
